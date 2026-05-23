@@ -4,8 +4,6 @@ A collection for demonstrating fundamental mathematical concepts essential for d
 
 ## 📚 Project Contents
 
-### Notebooks
-
 1. **Translating Mathematical Formulas to Code** (`Translating_Mathematical_Formulas_to_Code.ipynb`)
    - Tutorial on implementing mathematical formulas in Python
    - Bridges theory and practical implementation
@@ -16,20 +14,17 @@ A collection for demonstrating fundamental mathematical concepts essential for d
    - Companion to "Practical Linear Algebra for DS and ML.pdf"
    - Core concepts for ML algorithms and data transformations
 
-3. **Central Limit Theorem** (`central_limit_theorem.ipynb`)
+3. **Practical Linear Algebra for DS and ML.pdf** - Reference material for linear algebra concepts
+
+4. **Central Limit Theorem** (`central_limit_theorem.ipynb`)
    - Computational simulation demonstrating the Central Limit Theorem
    - Shows how the sum of random variables approaches a normal distribution
    - Includes visualizations comparing theoretical and simulated distributions
 
-4. **Law of Large Numbers** (`law_large_number.ipynb`)
+5. **Law of Large Numbers** (`law_large_number.ipynb`)
    - Monte Carlo simulation illustrating the convergence of sample means
    - Demonstrates how sample statistics approach population parameters as n increases
    - Visual representation of stochastic convergence
-
-
-### Additional Resources
-
-- **Practical Linear Algebra for DS and ML.pdf** - Reference material for linear algebra concepts
 
 
 ## 📦 Dependencies
@@ -74,5 +69,5 @@ Contributions are welcome! Feel free to:
 - Add new mathematical concepts and simulations
 
 
-**Happy learning!** 🎓
+**Happy Learning!** 🎓
 
