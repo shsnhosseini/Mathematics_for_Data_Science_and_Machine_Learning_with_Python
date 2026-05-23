@@ -68,6 +68,3 @@ Contributions are welcome! Feel free to:
 - Suggest improvements
 - Add new mathematical concepts and simulations
 
-
-**Happy Learning!** 🎓
-
