@@ -1,6 +1,6 @@
 # Mathematics for Data Science and Machine Learning with Python
 
-A learning repository for demonstrating fundamental mathematical concepts essential for data science and machine learning. This repository uses **computational simulations and visualizations** to make abstract mathematical theory intuitive and practical.
+I have designed this learning repository to demonstrate fundamental mathematical concepts essential for data science and machine learning. This repository uses **computational simulations and visualizations** to make abstract mathematical theory intuitive and practical.
 
 ## 📚 Project Contents
 
