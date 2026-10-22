@@ -16,12 +16,14 @@ A learning repository for demonstrating fundamental mathematical concepts essent
 
 3. **Practical Linear Algebra for DS and ML.pdf** - Reference material for linear algebra concepts
 
-4. **Central Limit Theorem** (`central_limit_theorem.ipynb`)
+4. **Probability Theory for DS and ML.pdf** - Reference material for probability theory concepts
+
+5. **Central Limit Theorem** (`central_limit_theorem.ipynb`)
    - Computational simulation demonstrating the Central Limit Theorem
    - Shows how the sum of random variables approaches a normal distribution
    - Includes visualizations comparing theoretical and simulated distributions
 
-5. **Law of Large Numbers** (`law_large_number.ipynb`)
+6. **Law of Large Numbers** (`law_large_number.ipynb`)
    - Monte Carlo simulation illustrating the convergence of sample means
    - Demonstrates how sample statistics approach population parameters as n increases
    - Visual representation of stochastic convergence
@@ -50,7 +52,7 @@ This repository helps you:
 
 ## 💡 Key Concepts Covered
 
-- **Probability & Statistics**: Central Limit Theorem, Law of Large Numbers
+- **Probability & Statistics**: Probability theory, Central Limit Theorem, Law of Large Numbers
 - **Linear Algebra**: Vectors, matrices, and transformations
 - **Computational Methods**: Monte Carlo simulations, numerical analysis
 - **Mathematical Coding**: Translating formulas into Python code
